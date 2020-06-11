@@ -1,0 +1,721 @@
+https://test-ipv6.com/,Check your LAN connection for IPv6 stability
+https://djsubstance.org,DJ substance official homepage
+https://9x.network,9x.network - Official 9x page
+http://www.cosmic-gate.de,Cosmic Gate Official
+https://www.djlange.com/,DJ Lange (most amazing prouducer)
+https://www.beatport.com/,listen to the newest artists/tracks
+http://dope.org/9x/9x/,Original 9x archives @ dope.org
+https://packetstormsecurity.com/,Packetstorm (latest security sploits/news)
+https://urlscan.io,URLScan.io (remotely scan target url) recon+
+https://hunter.io,Hunter.io - recon tool
+https://shodan.io,Shodan.io - get info on any site or device on the Intrawebs
+https://censys.io,Censys.io - Gleem info on your target (recon tool)
+https://securitytrails.com/,Securitytrails - DNS records (Past
+https://tools.dnsstuff.com/,DNSStuff - recon tool
+http://dnstools.fastnext.com/,The most versatile and amazing DNS dig site ever
+https://toolbox.googleapps.com,toolbox.googleapps.com
+https://searchengineland.com/leverage-python-and-google-cloud-to-extract-meaningful-seo-insights-from-server-log-data-329199,Leverage Python and Google Cloud to extract meaningful SEO
+http://bit.ly/onlinenmap,Online NMAP Scan
+https://sitereport.netcraft.com/,Netcraft - dig info on target server(s)
+http://wikimapia.org/,Wikimapia - get recon on target physical location
+https://bit.ly/BWAPPdl,BWApp - Buggign Web App to practice hacking
+https://bit.ly/edjpgtageditor,JPG Tag Editor
+http://www.t1shopper.com/tools/port-scan/,Decent online port-scan
+http://www.ipvoid.com/dig-dns-lookup/,Online dig-dns-lookup
+http://www.ipvoid.com/http-headers/,remotely get HTTP headers for a given site
+http://www.ipvoid.com/http-headers/,Excellent tool to view HTTP Headers
+https://www.httrack.com/page/2,Win app to mirror an entire web site
+https://id-ransomware.malwarehunterteam.com/,Online realtime Ransomware Detect
+https://www.ssllabs.com/ssltest/,Analyze your SSL certs/config
+https://centralops.net/co/,Central Ops - telco info
+https://www.telcodata.us/,Tons of info on telco switchs
+https://sensible-security.com,One to of the top companys pentesting
+http://webpagetest.org,webpagetest - check speed of your site
+https://www.ripe.net/,RIPE - Russian Internic
+https://www.lacnic.net/,LACNiC Intranic
+https://whois.arin.net/ui/,ARIN - Internet IP info US/North amer.
+https://afrinic.net,Afrinic
+https://majestic.com/,Majestic.com - SEO Resource
+https://aboutus.com/,Aboutus - SEO tool
+https://dnslytics.com/,dnslytics.com - great DNS tool
+https://mirai.badpackets.net,mirai.badpackets.net
+https://www.magnetdl.com/,Torrent site - magnetdl.com
+https://trancetraffic.com,Invite only trance tracker (trancetraffic)
+https://www.askapache.com/htaccess/#htaccess_Code_Snippets,How to make secure .htaccess files
+https://serpsim.com/,See how your site will present on Google
+https://agencyanalytics.com/blog/keyword-search-intent,SEO - Keyword Search Intent Guide
+https://ahrefs.com/blog/title-tag-seo/,How to Craft the Perfect SEO Title [4 steps]
+http://FakeMailGenerator.com,FakeMailGenerator
+https://whoapi.com,WhoAPI- Take remote screenshots
+http://bit.ly/DiamondScale,High quality Diamond Scale for 33$USD
+http://xssed.com/archive/special=1,XSSed Archive - famous haxd sites
+https://www.speedguide.net/portscan.php,Checks ports from internet (security check)
+https://www.virustotal.com,VirusTotal - Scan files or URLs for virus/malware
+https://lookup.icann.org/?name=,ICANN WHOIS lookup (verified)
+http://bit.ly/SEOscrapebox,Whitehat ScrapeBox SEO Guide
+https://bit.ly/2EjEj8p,DNSSEC - What is it
+https://us.ntt.net/support/looking-glass/,BGP - Looking Glass Service
+http://bit.ly/CombattingDDOS,Successfully Combating DDOS Attacks (pdf)
+https://en.wikipedia.org/wiki/List_of_trance_genres,wiki - List of trance genres
+http://bit.ly/Traceroute_WP,Traceroute: The Internet's Diagnostic Tool
+https://libgen.is,Best ebook site on the planet (libgen.is
+http://www.traceroute.org/#USA,The most amazing online traceroute solution
+https://curl.haxx.se/docs/httpscripting.html,Linux curl 101 (tutorial)
+https://tools.ietf.org/html/rfc3986,RFC 3986 - Read on URI
+https://www.myip.com/,Verify if your proxys are legit
+http://webkay.robinlinus.com/,What every Browser knows about you
+http://bit.ly/TIP-disable-wpc,Disable WebRTC in Various Browsers
+https://chrome.google.com/webstore/search/webrtc,Chrome Webstore: Disable RTC ext
+https://noscript.net/,Firefox ext - Best Security Plugin
+https://primeaccess.att.com/shell.cfm?section=143,Amazing list of AT&T Special telco numbers
+https://google.github.io/styleguide/shell.xml,Excellent Ref on bash scripting
+https://vulners.com,Vulners.com / CVE/Exploit monitoring
+https://cirt.net/Nikto2,Nikto2.pl - Excellent www vuln scanner
+https://threats.kaspersky.com/en/vulnerability/,Kaspersky 0day threat list
+https://freetools.webmasterworld.com/category/seo-tools,Analyze your site with free SEO tools
+https://freecarrierlookup.com/,FreeCarrierLookup - convert cell # to sms email
+https://azeria-labs.com/,(technical) ARM Assembly Basics
+http://attrition.org/mirror/attrition,Big List of hacked sites! Archived @ attrition.org
+https://flowroute.com,Probably the best SIP provider out there (flowroute)
+https://irssi.org/,One of the best Linux IRC clients (irssi)
+https://hackertarget.com/extract-links/,Hackertarget.com - Extract all links from www (text form) w/api
+https://primeaccess.att.com/shell.cfm?section=143,ATT Prime Access (pdf files) of telco test numbers
+http://bit.ly/Badasswallpapers,Wallup.net - Best badass wallpaper site on the net (all size/rez avail)
+https://en.wikipedia.org/wiki/Vocal_trance
+http://imeitrackeronline.com/,Lots of info on what your cell IMEI is
+http://bit.ly/akulurps,Adobe Kulur Color Gradient Library
+https://www.dafont.com/,DaFont - Excellent Font Find and Download
+http://bit.ly/wifi-Bettercap-PMKID,PWNING WPA/WPA2 Networks with Bettercap / PMKID Client-less Attack
+http://ix.io/,ix.io - Command line pastebin
+https://hello.freeconference.com,Free Conference Site! [for real]
+https://cybermap.kaspersky.com/,Kaspersky - realtime Malware/Threat Map
+https://www.krackattacks.com/,Key Reinstallation Attacks
+https://papers.mathyvanhoef.com/ccs2017.pdf,Key ReInstallation Attacks_-_Forcing Nonce Reuse in WPA2 [PDF]
+https://www.rfc-editor.org/retrieve/bulk/,174meg tgz archive of EVERY RFC (Request for comment) written since the 80s
+https://tools.ietf.org/html/rfc1918,RFC 1918 : Official RFC. private/public ip ranges
+https://github.com/vanhoefm/krackattacks-scripts,Actual exploit code for KRACK wifi attack
+https://www.krackattacks.com/,Very specific details on the WPA2 vulnerability (KRACK)
+http://bit.ly/80211_Techinfo,Technical info on how WIFI works
+https://www.packettotal.com,Simple Free pcap or on demand URL packet scan!
+https://desktop.firmware.mobi/,New site for SuperSU (root android) replaces CF-Autoroot (05-2019)
+https://www.spiderfoot.net/,SpiderFoot automates everything possible about your targetReconnaissance.
+https://downfor.io,Is your site down for everyone or just you?
+https://gravitational.com/blog/how-to-ssh-properly/,How to ssh with keys properly
+https://www.rtl-sdr.com/,RTL-SDR (RTL2832U) and software defined radio news and projects
+https://amzn.to/2WaIzOx,DJ Substances sound interface [ART USB Dual Pre ]
+https://panel.seedbox.io/aff.php?aff=369
+http://faceniff.ponury.net,FaceNiff is an Android app that allows sniffing/intercept web session profiles
+http://openvas.org/,OpenVAS - linux based superior vulnerability scanner
+https://www.greenbone.net/en/install_use_gce/,Openvas - Virtual Appliance [not tested]
+http://bit.ly/AutomatingVulnscans,Paper - Autmating Vuln. Scans
+https://www.imei.info/imei-checker/,IMEI Checker (check your IMEI/SIM)
+https://di.fm,DI.fm : Digitally Imported Radio
+https://routeserver.org/,Public Route Servers (telnet) BGP
+https://mailchimp.com/resources/email-marketing-benchmarks/,MailChimp (for mass-mail/spoofing)
+https://tools.kali.org/information-gathering/dnmap,Distributed NMAP
+http://bit.ly/CiscoADSMtips,Tips on managing your Cisco ASA FW via ASDM
+https://www.seobility.net/,SEObility - free trial to increase SEO
+https://atlas.eff.org/index.html,Search below to see domain names of sites that HTTPS Everywhere rules affect
+https://www.twilio.com/docs/sms/api/message-resource#create-a-message-resource,Create Json Node JS SMS Message and other goodies
+http://bit.ly/Foxattacktools,Bishop Foxs attack tools
+https://cookiepedia.co.uk/,cookiepedia - Scan URL or help identify known and unknown cookies
+http://www.httpwatch.com/httpgallery/,HTTPWatch [win] MiTM tamperdata type proxy app [for chrome/brave also]
+https://sslrobot.io/,SSL Robot [win app] goes with HTTP Watch as an addon
+https://toolbox.googleapps.com/apps/har_analyzer/,G Suite Toolbox HAR Analyzer (Very Useful)
+https://toolbox.googleapps.com/apps/loganalyzer/analyze,G Suite Toolbox - Chrome Log Analysis (json file)
+https://cloudconvert.com/chm-to-pdf,Cloud Convert (convert various doc formats)
+https://b-ok.cc/,dope ebook site
+http://cros-omahaproxy.appspot.com/,CrOS-OmahaProxy CSV Viewer [Chrome Specifics]
+https://brave.com/download/,The Best Browser out there ! Brave [most secure]
+http://bit.ly/curlCMDex,Curl Command Examples Linux
+https://showipbgp.com/,ShowIPbgp.com - All Things BGP
+https://www.get-metadata.com/,Get-Metadata.com - online PDF/JPG/etc metadata extractor
+https://www.extractmetadata.com/,Another online util to extract metadata from images or documents
+https://schema.org/docs/full.html,WWW Schema Organization
+http://bit.ly/EnumandHackingVoip,WhitePaper - Enumerating and Hacking VOIP in 2019
+http://gachecker.com/,Checks if Google Analytics is installed
+https://github.com/CIRCL/bgpranking-redis-api,GIT Project - BGP Ranking Redis API
+https://bgpranking.circl.lu/,BGP Ranking
+https://www.abuseipdb.com/fail2ban.html,Fail 2 ban Linux Tool
+http://www.voipbl.org/,VoIPBL is a distributed VoIP blacklist that is aimed to protects against VoIP Fraud
+https://haveibeenpwned.com/DomainSearch,Search for pwned accounts across an entire domain and receive future notifications
+https://gsma.com,Cellular GSM - Representing the worldwide mobile communications industry
+https://www.tutorialspoint.com/http/index.htm,HTTP Tutorial - Easy Tutorial but VERY in depth
+https://docs.docker.com/docker-hub/builds/,HOWTO - Docker (Set up Automated builds)
+https://ropenscilabs.github.io/r-docker-tutorial/04-Dockerhub.html,HOWTO - Pushing and Pulling to and from Docker Hub
+https://ipinfo.io/account/search?query=174.67.45.3,IPiNFO.iO- The trusted source for IP address data
+https://system76.com/pop,Kick ass HTML5 / CSS3 demo page
+https://wpvulndb.com,WP Vulerabilty page
+https://whoisology.com/,Dig deeper and find relevant and actionable data without much trouble.
+https://toolbox.googleapps.com/apps/dig/#ANY/,GToolbox Awesome DNS Info
+http://101.200.44.78/,Good page to test your proxy see if IP hidden
+https://community.riskiq.com/,AUTOMATED INTELLIGENCE
+https://www.tecmint.com/hide-apache-web-server-version-information/,Linux Admin - Hiding Apache Version
+https://dnsexit.com,FREE dyndns type resolving svc
+https://www.aircrack-ng.org/doku.php?id=airodump-ng,Aircrack MAN page with examples
+https://www.seobility.net/en/keywordmonitor/,SEObility - Great SEO Keyword Monitor Tool
+https://www.seobility.net/en/wiki/HTTP_headers,Deep Explanation of HTTP Headers
+http://bit.ly/CiscoASAresetfac,Cisco ASA: HOWTO - factory reset h/w FW
+https://w3.org/TR/FileAPI,Info on how web APIs represent file objects in web apps
+http://research.insecurelabs.org/jquery/test/,Exploit: Realtime Exploitation of jQuery
+https://parseip.com,Tool to parse NETSTAT output and breakdown output
+https://spyse.com,API Based service to enumerate subdomains and export data
+http://cgistart.com/CgiStart?page=Single,Kick ASS collection of live camera streams from around world
+https://tranceattic.com,Tranceattic - DJ Substance presents 42 epic progressive trance mixes
+https://github.com/pi-hole/pi-hole,A black hole for Internet advertisement
+http://bit.ly/DLdvlLinux,DVL - Damn Vulnerable Linux ISO Distro
+https://itgeekchronicles.co.uk/,IT Geek Chron - Great Blog
+https://filehippo.com/download_foca/,FOCA lets you find out more about a website
+https://www.ultratools.com/tools/traceRoute6,IPv6 Traceroute Online
+https://www.elevenpaths.com/labstools/evil-foca/index.html,EViL FOCA [win32/64] - MITM over IPv4/v6 Nets
+https://www.freemetataggenerator.com/,Create Free Customized Meta Tags / auto generator
+https://smallseotools.com/,Various SEO Tools online
+https://musicbiz.org/wp-content/uploads/2016/04/seo_music_websites_partII.pdf,How to increase your Music/DJ pages crawlability and SEO
+https://blog.elmah.io/9-awesome-net-conference-talks-you-dont-want-to-miss/,9 Awesome Youtube Conference talks on DOT Net and Security
+https://ec.haxx.se/http-redirects.html,CURL - School you on HTTP redirects
+http://bit.ly/NewschoolBeige,Radio Shack Beige Boxes
+https://localcallingguide.com/,Lookup phone numbers
+https://bit.ly/hackRFaddon,PortaPack for the HackRF (addon) super dope
+http://www.routeservers.org/,BGP Looking Glass telnet servers public
+https://sound-park.world/,Soundpark.World - Russian [MP3] Torrent EDM site 
+https://secureli.com,Secureli - Website Malware Removal Company
+https://dev.maxmind.com/geoip/geoip2/geolite2/,Automatic Updates for GeoIP2 and GeoIP Legacy Databases
+http://bit.ly/CodeObf,Good article on code obfuscation
+https://www.mixxx.org/,Mixx - free opensource mixing program all decks
+https://www.freevaluator.com/,Domain Value Estimator
+https://www.flippa.com/,Flippa.com - Buy and sell online business
+https://www.estibot.com/,Domain appraisal and domain investment tools.
+http://bit.ly/BandGoodWifiCam,Wifi IP Camera - super Tiny awesome for bugging someone?
+https://webpagetopdf.com/,Convert WWW to PDF Directly
+https://wiki.freebsd.org/bhyve,BSD Bhyve BGP daemon
+https://ahrefs.com/blog/seo-metrics/#section7,Estimates how much organic search traffic the target website gets each month
+https://www.youtube.com/watch?v=JJu-Am3wxS8,How to Get SEO Clients Even if You Don’t Have a Website
+http://bit.ly/DroidAdapFastCharge8hub,Smart 8-Port USB Charger - Charge Faster and Smarter - Best for Droid
+https://gbhackers.com/latest-google-dorks-list/,2019 list of Google Dorks
+https://gbhackers.com/latest-google-sql-dorks/,2019 Latest SQL Injection dorks
+https://github.com/anouarbensaad/vulnx,Intelligent bot auto-shell injector 
+https://favicon.io/favicon-generator/,Generate all 5 favicons free online
+http://bit.ly/html5livingstd,HTML5 Specification semantics
+https://greatscottgadgets.com/sdr/,Software Defined Radio with HackRF
+http://www.antenna-theory.com,Antenna Theory info A-Z
+https://aws.amazon.com/security/penetration-testing/,Amazon EC2 Pentesting Police 11-20-19
+http://bit.ly/Chrome_PrivBadger,Chrome - Privacy Badger Ext
+https://freephonenum.com/,Receive SMS messages on the fly
+https://www.youtube.com/watch?v=a99neJj4Mow,Bettercap 2.x (Examples: Sniffing
+https://www.bettercap.org/,Bettercap - great MiTM probe/wifi/hack app
+https://www.gimp.org/downloads/,GIMP - Graphics Image Manip. Program
+https://www.youtube.com/watch?v=4Lgdtr7ylNY,18 Hack RF RTL SDR Tricks / youtube
+https://prnt.sc/q1l904/edit,Amazing online photoshop page
+https://woo-metadata-tool.janpotoms.now.sh/,WooRank Metadata Tool
+http://bit.ly/ListofALLSearchEngines,List of EVERY search engine that is of use
+http://bit.ly/50khzto900MhzAnalyzer,Portable Handheld Vector Network Analyzer 50KHz-900MHz Digital Display 
+http://android-x86.org/,Download Android VM Image
+https://greatscottgadgets.com/,Great Scott Gadgets - Best places for RF gear
+http://bit.ly/5buffoverflows,5 Buffer Overflow Vulnerabilities in Popular Apps
+http://winhelp2002.mvps.org/hosts.txt,Updated hosts Parasite File
+https://github.com/mossmann/hackrf/wiki/HackRF-One,HackRF - Official Wiki Page HOWTO
+https://www.freevaluator.com/,Domain value tool (3 free checks /day)
+https://iptorrents.com/,IPTorrents - Invite only torrent tracker
+https://www.discriminator.nl/index-en.html,RF - Mad good info on modifying handheld scanners
+http://www.electrical-integrity.com/,Signal Integrity Info
+http://www.css3.info/,Learn All Things CSS v3
+http://www.csszengarden.com/,CSS Reference - Zengarden
+http://www.mezzoblue.com/zengarden/alldesigns/,Tons of elite CSS3 templates and designs to use
+https://github.com/furrtek/portapack-havoc/wiki,HackRF - Portapack WIKI HOWTO
+http://manpages.ubuntu.com/manpages/cosmic/man1/nsupdate.1.html,Ubuntu HOWTO: Command nsupdate (useful)
+http://64.145.65.68/,Speedtest Alternative Site
+http://bit.ly/4wayheadpspli,4 Way headphone Splitter from amazon
+https://github.com/alpinejs/alpine/,new JS library: Alpine - extend the power of JS
+https://downforeveryoneorjustme.com/,Verify if target URL is down for everyone or your connection
+http://bit.ly/AntennasandProperties,One of the Best references on RF and Antennas
+https://github.com/sharebrained/portapack-hackrf,HackRF / The official guide!
+http://bit.ly/rtlsdr3,RTL-SDR v3 - Order Page (25$usd)
+http://bit.ly/GreatRFSpecGraph,spectrum_radio_optical_graphic_web [IMG]
+https://www.eicar.org/?page_id=3950,EICAR - Download and Test Malware
+https://aptoide.de.aptoide.com,Aptoide - The best Android Playstore Alternative
+https://en.wikipedia.org/wiki/VCV_Rack,VCV Rack - Wiki Page - Crazy Amazing Free Synth for making beats
+https://vcvrack.com/Rack,VCV Rack - Official Website - Opensource synth
+http://bit.ly/rtlsdr3,Official RTL-SDR site to purchase
+https://sourceforge.net/projects/hjt/,Hijackthis - Excellent Windows tool to rid your pc of garbage
+https://www.electronicshub.org/types-of-antennas/,Excellent Reference of Antenna Types
+https://greatscottgadgets.com/,Open source hardware for innovative people
+http://otadtv.com/cgi-bin/tvangle.cgi,TV Broadcast Towers Reference - Realtime Locator
+http://bit.ly/IntroWaveProp,Hardcore Antenna info excellent reference
+https://downloadnox.onl/,Android app emulates the droid system on the Win/Mac/Linux
+https://docs.djangoproject.com/,Django - Python web framework
+https://wiki.radioreference.com/index.php/Modulation_Methods,RF Wiki: Modulation Methods
+https://www.pulseelectronics.com/antenna_basic_concepts/,RF - Antenna Basic Concepts
+https://www.microwaves101.com/encyclopedias/cable-length-rule-of-thumb,RF - Calculating cable length for designing your own antennas
+https://www.youtube.com/watch?v=BSa051lWB_c,RF - What is VSWR: Voltage Standing Wave Ratio
+https://gitlab.com/kalilinux/packages/aircrack-ng,Aircrack-NG Kali Repo/info base
+http://bit.ly/DiffBetweenDBandDBi,RF - Difference between dB and dBi explained
+https://www.eyeem.com/u/m24_karat,Captivating Desgins - Dope Freelance Photography
+https://freedns.afraid.org/,Free DNS - Dynamic DNS - Static DNS subdomain and domain hosting
+https://vms.drweb.com/virus/?i=14895561,Real Deal - Android.BankBot.149.origin virus [DO NOT EXECUTE]
+https://wholesaleinternet.net/,Wholesale Internet - The best VPS/Bare Metal hosting/MSP ever
+http://www.aboutmyip.com/AboutMyXApp/IP2Integer.jsp,Convert URLs to integers and vise versa
+https://www.semtech.com/lora/what-is-lora,LORA - a spread spec. mod. technique from chirp (CSS) technology
+http://16843009,Weird Looking Link eh? Its safe
+http://bit.ly/PDF_terr_trunked_radios,Terrestrial Trunked Radio (TETRA) info
+https://sockslist.net/,Great free list of SOCKS proxys
+https://www.rfwireless-world.com/Tutorials/TETRA-radio-system.html,Tutorial on TETRA Radio System Basics
+https://github.com/pownjs/pown,Pown.js is a security testing and exploitation toolkit built on node.js
+https://cablehaunt.com/,Cable Haunt is a critical vuln. in modems from various mfgrs
+ https://www.flightradar24.com/BAW33/237db4bc,Flight Radar (realtime monitor flight data)
+https://scapy.net/conf/scapy_pacsec05.pdf,PDF - Network packet forgery with Scapy
+https://tailwindcss.com/#what-is-tailwind,CSS Made Easy - Tailwind Frameword
+https://scapy.readthedocs.io/en/latest/introduction.html,Scapy Read the Docs - the ultimate in packet crafting apps
+https://www.balarad.net/,Maiking Antennas - Coaxial Collinear Antenna for ADS-B Receiver.
+https://www.microsoft.com/en-us/download/details.aspx?id=54264,Enhanced Mitigation Experience Toolkit (EMET) 5.52
+https://docs.microsoft.com/en-us/archive/blogs/,Archived MS Security Blogs
+https://jsbin.com/,Really Great web based development tool (realtime)
+https://www.kb.cert.org/vuls/bypublished/desc/,CERT.org latest vulnerability threats
+https://steemit.com/linux/@dez1337/how-to-static-ipv6-on-ubuntu-16-04,TIPS for cfg ipv6 on Ubuntu 16 and 18
+https://viewdns.info,Tons of online host lookups including ping scanning dns etc) its essential
+https://host.io,A Comprehensive Domain Data API for Developers (dig info on any IP)
+https://www.ipfingerprints.com/portscan.php,Online portscanner tool
+https://www.tutorialrepublic.com/css-tutorial/css-box-model.php,Excellent reference on CSS3 and how pages are laid out (2020)
+https://coinatmradar.com/blog/how-to-start-a-bitcoin-atm-business/,How to start a BTC ATM (business)
+https://coinatmradar.com/,Where to find a local Bitcoin (BTC) ATM near you
+https://getbootstrap.com/docs/4.0/layout/grid/,Bootstrap 4: Grids and Flexbox
+https://www.youtube.com/watch?v=FUYAe5ROeP0&t=0s,Youtube - how to rank #1 on google (seo)
+https://ahrefs.com/blog/link-building-strategies/,Ahrefs article - link building strategies
+https://totheweb.com/learning_center/tools-search-engine-simulator/,Tool - Search Engine Simulator
+https://www.paperstreet.com/blog/how-to-setup-and-install-google-analytics-on-your-website/,How to setup and manage Google Analytics on your www
+https://en.wikipedia.org/wiki/High-resolution_audio,What is High Resolution Audio?
+https://www.hashicorp.com/resources,Provision/secure run any infrastructure any application.
+https://tunnelbroker.net,Hurricane Electric Free IPv6 Tunnel Broker
+http://bit.ly/freewinFWcomodo,Best windows free FW/AV/AntiMalware SW
+https://docs.aws.amazon.com/autoscaling/ec2/userguide/as-dg.pdf,PDF WP - How to configure AWS Ec2 Autoscaling
+https://abacasys.com/,Company that is great at developing scalable apps web and standalone etc
+https://phantomjs.org/,PhantomJS - Scriptable Headless Browser
+https://hub.packtpub.com/penetration-testing-rules-of-engagement/,Pentesting - Rules of Engagement PDF
+https://tools.pingdom.com/,Amazing tool to analyze speed of your www
+https://smallseotools.com/check-gzip-compression/,Checks your site for gzip compression
+https://www.seeme-media.com/add-expires-headers-to-your-htaccess-file/,How to properly setup headers to cache/expire via .htacess
+https://html5test.com/,YOUR BROWSER SCORES ??? OUT OF 555 POINTS (security and func)
+https://tinypng.com/,Shrink your web sites png files and keep quality
+https://www.spooftel.com/,Killer online phone spoofing engine
+http://metapicz.com/,Drag or UL png/jpg/gif and it will display all hidden metadata in image
+https://webpagetest.org/,Webpagetest - *incredible* free tool to help you speed up your www
+https://norse-corp.com/map/,Top 15 Live Cyber Attack Maps for Visualizing Digital Threat Incidents
+https://threatmap.fortiguard.com/,Current Threat to World - Fortiguard Map
+https://www.digitalattackmap.com/understanding-ddos/,Excellent Video on in-depth a DDOS attack is. How we can mitigate it.
+https://pdfs.semanticscholar.org/6db8/2997ab3934672710ecb7fd225252e5863d5f.pdf,Excellent Whitepaper on where we are currently with IT DC vs cloud and the future?
+https://github.com/Boloop/TCPAnalysis,GIT Repo - Very unknown/underground py2.7 tools called TCPAnalysis
+https://pdfs.semanticscholar.org/6db8/2997ab3934672710ecb7fd225252e5863d5f.pdf,e in order to develop
+https://www.cse.wustl.edu/~jain/cse567-06/ftp/net_traffic_monitors3/,WP - A Survey of Network Traffic Monitoring and Analysis Tools
+https://bgp.he.net/AS29975,Hurricane Electric - Lookup any AS and its Path and neighbors
+https://threatbutt.com/map/,Realtime Global Threat Analysis: threatbutt.com
+https://cybermap.kaspersky.com/,Realtime top of the line global threat map - Kaspersky
+https://www.deteque.com/app/uploads/2019/03/DNS-Firewall-Overview-032019.pdf,Purchase/run a DNS Firewall - Improve security against malicious
+https://developers.google.com/web/tools/chrome-devtools/network/reference#timing-explanation,Google Inspect/dev tool explanation: Network Analysis Reference
+https://tmp.ninja/?info,Awesome util to use CLI to upload files *over 10G works!* and share quickly
+http://bit.ly/BugDetector,$800USD - Detects ANY wifi/rf on a person (bug detection) works perfect
+https://www.bhphotovideo.com/,BHPhotoVideo.com - Great electronic Deals and items
+https://developer.twitter.com/en/docs/twitter-for-websites/tweet-button/overview,How to properly and securely add tweet button to your page
+https://gbhackers.com/latest-google-dorks-list/,2019 Google Dork List
+https://validator.w3.org/nu,HTML5 Validator online w3.org
+https://you.dj,Live USB Mixing Audio (Google Canary Browser Req)
+https://www.w3.org/TR/2010/WD-html-markup-20100624/meta.http-equiv.content-type.html,The META Equiv HTML tag (w3)
+https://blog.shodan.io/shodan-real-time-stream/,Shows realtime data streaming from shodan
+https://blog.shodan.io/tracking-hacked-websites-2/,Tracking hacked websites with shodan
+http://www.allitebooks.org/,Great eBook site - works every book 99 percent of time
+https://www.w3.org/TR/2010/WD-html-markup-20100624/references.html,HTML5 Markup References from w3.org
+https://www.cyren.com/security-center/cyren-ip-reputation-check,Cyren IP
+https://picresize.com/,Excellent online app to resize shrink your images to maximize compression on www
+https://pyrocms.com/,WWWdev - Build better Laravel websites and applications faster with Pyro
+https://www.graylog.org/,Graylog Light - Free Open Src Syslog Centralized Aggregator
+https://hub.docker.com/r/graylog/graylog/,github - Official Graylog Docker image (automated build) 
+https://keywordtool.io/,Great Keyword Tool for SEO (kind of pricey)
+https://codepen.io,Codepen.io - The most amazing repository for all types of amazing web code
+https://github.com/httprb/http,The best
+https://rpmfind.net/linux/rpm2html/,rpm2html - deprecated but still useful for finding *nix tools
+https://www.bing.com/webmaster/help/help-center-661b2d18,Bing Webmaster Tools Help & How-To Center
+https://isc.sans.edu/services.html,List of all TCP Ports and typical services associated
+https://kiosk.cookiepro.com/start-scan?source=cookiepedia,Online web scanner for all types of cookies and defines them
+https://www.cookiebot.com/en/cookie-banner/,Cookie Banners? Do I need one for my site?
+https://isc.sans.edu/,Internet Storm Center (ISC) Dashboard
+https://ahrefs.com/blog/content-syndication/,Content Syndication: What It Is and How to Get Started
+https://ahrefs.com/blog/google-ranking-factors/,10 Google Ranking Factors You Shouldn’t Ignore
+https://ahrefs.com/blog/google-analytics-tracking-mistakes/,13 Google Analytics Tracking Mistakes (and How to Fix Them)
+https://expireddomains.net,Find expired domains and snag them quick!
+https://github.com/DShield-ISC/dshield,Kickass Honeypot that can be run on a PI
+https://www.bing.com/webmaster/help/how-to-create-a-robots-txt-file-cb7c31ec,How to properly create a robots.txt file
+https://www.threatstop.com/checkip,Threatstop.com - Check IP for compromise
+https://kiosk.cookiepro.com/,Scan site online for cookies (secure and not)
+https://ahrefs.com/blog/google-analytics-tracking-mistakes/,Common Mistakes setting up Google Analytics
+https://linuxize.com/post/curl-command-examples/,Become a Curl expert
+https://www.fakenamegenerator.com/gen-male-us-us.php,Generate a fake identity online
+http://asciiflow.com/,AsciiFlow Infinite (Online Ascii Art Board)
+https://daringfireball.net/projects/markdown/,Convert Text to HTML markup
+https://michelf.ca/projects/php-markdown/extra/#html,Markdown Extra is an extension to PHP Markdown implementing some features currently
+https://rankmath.com/tools/seo-analyzer/,Rankmath online SEO analyzer (for WP)
+http://www.whitebeam.org/library/guide/overview/phpasp.rhtm,Whitebeam PHP/ASP addon library
+http://use_ssh_as_proxy.onlinephpfunctions.com/,Great Use of SSH reverse tunneling to creat SOCKS5 Proxy
+https://controlc.com/,ControlC.com - Paste Info  Get Paid Share Links   Free
+https://mediatemple.net/community/products/dv/204644480/enabling-vi-syntax-colors,Enabling-vi-syntax-colors
+https://adzerk.com/blog/chrome-samesite/,Web Dev - Explains why SAMESITE attrib. is important
+https://html.spec.whatwg.org/multipage/scripting.html#attr-script-type,Wev Dev - HTML Spec - Attributes and why they are important
+https://technicalseo.com/tools,One of the most amazing SEO website tools to check your www
+http://securityaffairs.co/wordpress/70429/deep-web/deep-web-book.html,A Great book on the deep web and how to use it
+https://web.dev/samesite-cookies-explained/,WWW DEV - Same Site cookies Explained
+https://www.thegeekstuff.com/2011/10/google-chrome-commands/,The most useful chrome:// cmds
+https://keywordtool.io/,Generate top Long tail SEO keywords online
+https://github.com/webmin/webmin,Webmin - like cpanel but free!
+https://www.gammatraffic.com/,SEO - Gammatraffic will generate traffic to your site (free trial) not sure ?
+http://artscene.textfiles.com/acid/BBSMODS/,ACiD Art ANSi Packs
+https://github.com/atmire/COUNTER-Robots,Official list of user agents that are regarded as robots/spiders by COUNTER
+https://www.keycdn.com/blog/cdn-seo-indexing-images,CDN SEO: Indexing Images in SERPs
+https://www.keycdn.com/support/what-is-a-robots-txt-file,What Is a Robots.txt File
+https://www.keycdn.com/blog/web-crawlers,Web Crawlers and User Agents - Top 10 Most Popular
+https://tableplus.com/blog/2018/10/how-to-show-queries-log-in-mysql.html,TablePlus - How to show and debug realtime mySql DB queries
+https://bgp.potaroo.net/cidr/autnums.html,Comphrehensive Liust of every Autonomous system as of 03/2020
+https://www.disruptiveadvertising.com/marketing/improve-google-ranking/,SEO - Improve your SERP google rating
+https://daniel.haxx.se/stuff/,Other projects the author of curl has written (code)
+https://en.wikipedia.org/wiki/X_Window_System_core_protocol,Core Info on Xwindows / wiki
+https://talosintelligence.com/smart_scanner,Cisco Smart Install Scanner
+https://github.com/jokkedk/webgrind,GUI Front end called webGrind for xDebug PHP Static Analysis
+https://github.com/Cisco-Talos/file2pcap,File2pcap tool allows you to make various types of packet captures containing the content of any file that you specify.
+https://dev.mysql.com/doc/refman/8.0/en/debugging-server.html,Debugging a MySQL Server
+https://support.teamunify.com/en/articles/227-email-to-sms-gateway-list,Email to SMS gateway comprehensive list
+https://regex101.com/,Helps you calculate RegEx on the fly
+https://www.lipsum.com/,Libsum.com - on the fly text generator
+http://w3c-webmob.github.io/netinfo-usecases/,Detailed Review of apps that use network information
+https://www.askapache.com/htaccess/blocking-bad-bots-and-scrapers-with-htaccess/,Using HTaccess to block bots and scrapers (comprehensive)
+http://httpd.apache.org/docs/2.0/mod/mod_rewrite.html,Official Docs on Apache mod_rewrite
+https://developers.whatismybrowser.com/api/features/user-agent-parse#fields-for-plans,Developers UA Database Search/Parse Learn Detection API
+https://crosstec.org/en/support/online-documentation/breezingforms/17-elements/47-validating-form-elements.html,PHP - Validating Form Elements
+https://undeadly.org ,The Official OpenBSD Journal
+https://texteditor.co/,Online Text Editor @ texteditor.co
+https://www.nist.gov/pml/time-and-frequency-division/popular-links/time-frequency-z/time-and-frequency-z-ch-cy#clock,Definition of UTC Time (defined by nist.gov)
+https://fontawesome.com/cheatsheet,FontAwesonme - cheatsheet
+http://www.stratigery.com/scripting.ftp.html,Elite FTP cli scripting techneeqs
+https://www.microsoft.com/en-gb/software-download/windows10,Windows 10 Create your own clean ISO (use KMSPICO or Windows 10 Loader to activate
+https://reactjs.org/docs/introducing-jsx.html,Learn ReactJS - JSX (intro)
+https://github.com/jokkedk/webgrind,PHP XDebug - Webgrind - front end static analysis of php code
+https://requestbin.com/,RequestBin gives you a URL that will collect requests. made to it and let you inspect them
+https://www.w3.org/Protocols/rfc2616/rfc2616-sec4.html#sec4.2,RFC2616 - HTTP messages consist of requests from client to server and responses from server to client.
+https://www.rumble.run/,provides ridiculously fast and comprehensive network discovery without the need for credentials or tap port access
+https://terminalizer.com/,Terminalizer - Allows you to securely record/share0 your terminal session
+https://github.com/faressoft/terminalizer,git clone terminalizer
+https://convertio.co/,Convert PDF files to HTML cleanly
+https://www.musictheory.net/,Everything you wanted to know about music theory
+https://vt100.substance.guru/How_To_Survive_a_Pandemic.pdf,How to survive a pandemic - author d1g [special thx]
+http://1337x.to/,Public Torrent site: http://1337x.to
+http://bittorrent.am/,Bittorrent.AM Public tracker
+https://concen.org/torrents,Concen - public tracker
+https://anidex.info/,Anidex.info - public torrent tracker
+http://bittorrent.am/,Public tracker - bittorrent.am
+https://www.gnu.org/software/wget/manual/wget.html,Wget - Complete manual top to bottom
+https://www.openvas.org/omp-4-0.html,OMP - OPENVAS Mgmt Protocol / Command Line Docs
+https://community.greenbone.net/,Open Vulnerability Assessment System release 6 (OpenVAS-6)
+https://bit.ly/bashVSsh,Linux Shells: sh vs bash: Major Differences From The Bourne Shell
+https://www.researchgate.net/profile/Dharmaraj_Patil4/publication/318074514_Detection_of_Malicious_JavaScript_Code_in_Web_Pages/links/5cf40baf4585153c3daec19c/Detection-of-Malicious-JavaScript-Code-in-Web-Pages.pdf,(PDF) Detection of Malicious JavaScript
+https://www.thegeekstuff.com/2010/10/expect-examples/,Expect: an uncommon
+https://www.freecharcodes.com/,Generate Characters and copy to clipboard w/o typing
+https://www.freeencryptdecrypt.com/,On the fly text/msg encryption/decryption service
+https://www.freeiplookup.com/,Fairly accurate IP -> GEO location lookup
+https://www.freeemailvalidator.com/,Reliable Email Validation Tool
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions,CSS3 Transitions - Example code / HOWTO
+https://www.afterhoursprogramming.com/tutorial/html/div-and-span-tags/,HTML Programming guide on the DIV element
+https://www.yeahhub.com/use-netcat-listening-banner-grabbing-transferring-files/,*Excellent* Hacking Reference Site - yeahhub.com
+https://developers.google.com/analytics/devguides/collection/analyticsjs/how-analyticsjs-works,How Google Analytics work (code)
+https://www.whatsmydns.net/dns/usa,The Most Comphrensive list of Global DNS Servers
+https://www.semrush.com/,SEMRush - Lots of traffic analysis
+https://www.utc.edu/center-academic-excellence-cyber-defense/pdfs/4660-lab3.pdf,PDF - Banner Grabbing using netcat
+https://www.phoneservicesupport.com/,Decent Site with info on all types of telephony (forum)
+https://www.cyberciti.biz/faq/unix-howto-read-line-by-line-from-file/,Some bash cli tricks
+https://moz.com/learn/seo/hreflang-tag,SEO - How the HREF lang tag works
+https://technicalseo.com/tools,Technical SEO - Incredible Free Tool to check your sites SEO/Robots/etc
+https://www.aleydasolis.com/english/international-seo-tools/hreflang-tags-generator/,The hreflang Tags Generator Tool
+https://jsonformatter.curiousconcept.com/,Excellent json formatter (online)
+https://www.yeahhub.com/7-must-use-http-security-headers/,7 Must use HTTP Security Headers
+https://www.yeahhub.com/top-50-hacking-penetration-testing-tools-compiled-list-2019/,50 of the top pentesting utils/apps
+https://www.yeahhub.com/http-put-method-exploitation-live-penetration-testing/
+https://ipchicken.com,IPChicken - get your public facing ip
+https://color.adobe.com/create,HTML Color Picker (the best) adobe
+https://www.bestjquery.com/lab/css-text-effects/,JQuery - Best color text efx!
+https://technicalseo.com/tools/docs/rel-canonical/,Even more technical info on the REL-Canonical HTML tag
+https://getcomposer.org/doc/01-basic-usage.md,Composer - Basic Usage - howto
+https://getcomposer.org/doc/03-cli.md#install,More specifics on Composer and installation
+https://www.hostinger.com/tutorials/how-to-install-composer,Complete Guide to Composer 
+https://webassembly.org/getting-started/developers-guide/,Developer’s Guide to Web Assembly
+https://www.elastic.co/,Get Started with Elasticsearch
+http://nutch.apache.org/,Highly extensible
+http://socketo.me/,Socketo - WebSockets for PHP
+https://www.twilio.com/blog/create-php-websocket-server-build-real-time-even-driven-application,How to Create a WebSocket Server in PHP with Ratchet for Real-Time Applications
+https://avinetworks.com/glossary/ssl-termination/,What is SSL Termination
+https://www.hochmanconsultants.com/301-vs-302-redirect/,SEO Ramifications of HTTP 301 vs 302
+https://docs.nextcloud.com/desktop/2.6/,NextCloud - New Wave of File Xfer - DOCS
+https://www.webex.com/downloads/,Cisco Webex :: Download SW
+https://regexr.com/,Nice Online Regex Tool
+https://suricata-ids.org/,Suricata is a free and open source
+https://www.blackhat.com/us-20/training/schedule/#intrusion-analysis-and-threat-hunting-with-open-source-tools-19091,Blackhat 2020 Conference info
+https://sourceforge.net/projects/skywavelinux/,Skywave Linux - for HackRF  (Bootable OS)
+https://fonts.google.com/,Google - fonts.google.com
+http://browserhacks.com,BrowserHacks - helps you code CSS across browsers
+http://lesscss.org/usage/,Less (which stands for Leaner Style Sheets) is a backwards-compatible language extension for CSS.
+https://mobiforge.com/design-development/adding-favicons-in-a-multi-browser-multi-platform-world,How to code markup for favicon across all devices
+https://sourceforge.net/projects/hjt/,Hijack This - Removes Malicious and Pesty files from windows
+https://developers.cloudflare.com/firewall/cf-firewall-rules/,How to properly write Cloudflare FW Rules
+https://moz.com/learn/seo/on-page-factors,SEO Best Practices for on page evaluation
+https://observatory.mozilla.org/analyze/djdman.live,Analyze a domains HTTPS security via observatory.mozilla.org
+https://securityheaders.com/,Check a domains SSL/HTTPS security headers for validation/compliance
+https://www.anapico.com/category/signal-source-analyzers/,Anapico - Makes some super high end SDR and spectrum analyzing equipment
+https://www.precisionwave.com/products/sdr,Precisionwave - The Leader in high end SDR equipment
+https://www.pcliquidations.com/p103574-samsung-galaxy-tab-4,One of the best android tablets for rooting and doing WIFI hacking with
+https://zmap.io/,The Zmap Project (Excellent)
+https://www.freeformatter.com/,Excellent online conversion util (many formats
+https://linuxize.com/post/how-to-create-mysql-user-accounts-and-grant-privileges/,mySql Command Line Help (add users
+https://bit.ly/GPS_Signal_Jammer,GPS Signal Jammer - 30$ good deal
+https://www.microsoft.com/en-us/software-download/windows10ISO,Official MS Windows 10 Pro Download (activate with kmspico)
+https://www.privacytools.io/providers/dns/,Use these DNS providers INSTEAD OF GOOGLE OR YOUR isp
+https://docs.umbrella.com/deployment-umbrella/docs/point-your-dns-to-cisco,Cisco DNS Solution Cisco Umbrella
+http://xip.io/,wildcard DNS for everyone 
+https://cognitiveseo.com/blog/22796/seo-friendly-title-tags-best-practices/,SEO - Writing Titles and Descriptions for best practice
+https://mp3cut.net/,Cut / Edit / Parse your mp3s ONLINE!
+https://ytmp3.cc/,The *best* Youtube ripper to MP3 OR AVI
+https://milliondollarmetropolis.com/#,Amazingly Designed Site!
+https://spyse.com/,Find Any Technical Information About Internet Assets (has an API)
+https://www.zamzar.com/convert/epub-to-pdf/,The Best Online EPUB -> PDF conversion util
+https://developers.cloudflare.com/workers/tooling/wrangler/webpack/,Wrangler allows you to develop modern ES6 applications with support for modules.
+https://www.drupal.org/docs/user_guide/en/index.html,HOWTO: Configure Drupal securely
+https://mirrors-cdn.liferay.com/geolite.maxmind.com/download/geoip/database/,The missing GeoIP database for use with asTraceroute
+https://labs.ripe.net/Members/thomas_mangin/content-exabgp-new-tool-interact-bgp,Information on exaBGP (Swiss army knife of BGP)
+https://library.panic.com/transmit/td-install/,OSX File Xfer App - Transmit - addon to actaully MOUNT ftp/scp
+https://www.askvg.com/list-of-commands-to-launch-specific-settings-page-directly-in-windows-10/,Win10 Shortcuts (handy)
+https://docs.aws.amazon.com/AmazonS3/latest/dev/using-iam-policies.html,Setting up IAM polices on AWS/ec2
+https://awspolicygen.s3.amazonaws.com/policygen.html,AWS Policy Generator is a tool that enables you to create policies that control access to AWS
+https://docs.aws.amazon.com/AmazonS3/latest/dev/cors.html,Cross-Origin Resource Sharing (CORS) on AWS0
+https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_elements.html,IAM JSON Policy Elements Reference
+https://github.com/eyecatchup/SEOstats,SEOstats is a powerful open source PHP library to request a bunch of SEO relevant metrics
+https://routeserver.org/public-route-servers.html,Public Route Telnet Servers (BGP)
+https://schema.org/RadioSeries,SEO Related - How to write a web page Schema (in detail)
+https://seo-hacker.com/what-meta-robots-tag-are-for/,Help with Meta Robot Tags
+https://symfony.com/download,Installing symfony (PHP)
+https://peteris.rocks/blog/can-you-kill-it/,Absolutely Great Reference for which Ubuntu/*nix services you can safely disable
+https://protechgurus.com/ospf-and-isis-differences/,OSPF and IS-IS Differences and Similarities
+https://en.wikipedia.org/wiki/Negative_cache,Wiki Article - Defines the term Negative Cache (mainly when it comes to DNS)
+https://peteris.rocks/blog/can-you-kill-it/,Can you kill it? Ubuntu Server startup processes
+https://jsonld-examples.com/schema.org/code/website-markup.php,Proper WebSite Schemas using JSON-LD
+https://moz.com/learn/seo/canonicalization,Moz.com explains how to properly canonicalize your markup
+https://www.peeringdb.com/,This DB has the global interconnection of nets @ Internet Exchange Points (IXPs)
+http://docs.gns3.com/,GNS3 - Cisco IOS Simulation engine (runs in VM)
+https://www.ncjrs.gov/tutorial/obtain.html,National Criminal Justice Reference Service (NCJRS)
+https://www.ncjrs.gov/pdffiles1/nij/grants/250964.pdf,Analysis of the Criminal Justice System’s
+https://www.ncjrs.gov/,Office of Justice Programs
+https://www.ncjrs.gov/pdffiles1/nij/grants/239604.pdf,PDF on Automated License Plate Recognition Systems
+https://www.ncjrs.gov/pdffiles1/nij/grants/251177.pdf,PDF Analysis and Prediction of Call For Service Data 
+https://secapps.com/chrome,Chrome/Brave Pentesting Extension - SecApps
+https://www.cisco.com/c/en/us/solutions/data-center-virtualization/overlay-transport-virtualization-otv/index.html,FAQ - Cisco OVT - Overlay Transport Virtualization
+https://www.cisco.com/c/en/us/td/docs/solutions/Enterprise/Data_Center/DCI/whitepaper/DCI3_OTV_Intro.pdf,PDF -  Overlay Transport Virtualization
+https://www.passion-radio.com/sdr-transceivers/38,Passion-Radio SDR Store!
+https://exifdata.com/,Extract Metadata online from jpg/png/gif etc
+https://www.passion-radio.com/sdr-transceivers/ubertooth-one-76.html,Ubertooth One - Bluetooth hacking device
+https://ranous.files.wordpress.com/2018/02/rtl-sdr4linux_quickstartv2-18.pdf,PDF - Software Defined Radio Quickstart Guide
+https://www.rochesterham.org/meetings/2015-12_SDR_Program.pdf,Exploring RF with Software
+https://asdf.us/asciiblaster/,Amazing online dynamic page to design ANSi/ASCii with many features (free)
+https://asdf.us/asciiblaster/doc/,Help for Ascii Blaster
+https://www.cookiemetrix.com/,Online Cookie Analysis (10 credits free)
+https://www.cookieserve.com/,Free Cookie Checker Tool for Websites
+https://docs.rs/rpki/0.7.0/rpki/roa/struct.RoaBuilder.html,BGP - Struct rpki::roa::RoaBuilder [interactive]
+https://www.eyeem.com/u/m24_karat,Prospects m24 karat Dope Photo Gallery
+http://secspider.net/stats.html,SecSpider - Global DNSSEC deployment tracking
+https://irl.cs.ucla.edu/~eoster/doc/12-pam-dns.pdf,DNS_Overview-and-attack-info-2010
+http://secspider.net/,Global DNSSEC deployment tracking
+https://colorlib.com/wp/bootstrap-website-templates/,Free Bootstrap WWW Templates
+https://colorlib.com/wp/bootstrap-website-templates/,More Free Bootstrap Free HTML Themes
+https://mobirise.com/bootstrap-template/,Excellent site for HTML web templates
+https://themefisher.com/free-bootstrap-templates/,Additional HTML Templates
+https://themewagon.com/,Even more amazing html themes
+https://freehtml5.co/blog/free-html5-responsive-admin-dashboard-templates/,Responsive Free WWW Templates
+https://www.sitepoint.com/anatomy-of-a-modern-javascript-application/,The Anatomy of a Javascript App in detail
+https://itsfoss.com/linux-command-tricks/,20 Linux Command Tips and Tricks That Will Save You A Lot of Time
+https://www.abuseat.org/,Abuse Site for SMTP Blacklist/Removal
+https://www.spamhaus.org/dbl/,Domain Block List - Spamhaus
+https://linuxize.com/post/how-to-install-and-configure-samba-on-ubuntu-18-04/,Excellent Guide to Quick Samba setup in Ubuntu 16/18/20
+https://www.cisco.com/c/en/us/products/collateral/security/firepower-ngfw/datasheet-c78-742480.html,Cisco Firepower (IDS / IPS) Datasheet
+ https://suricata-ids.org/,Suricata is a free and open source
+https://youtubetomp3music.com/en1,The Very Best Youtube -> mp3 320k converter online
+http://r.sloyalty.com/r/xxGARtLs7YDv,Giant Vapes - One of the best vape juice / coil suppliers on the net
+https://www.jsdelivr.com/,jsDelivr – Open Source CDN
+https://pypi.org/project/iptocc/,Get country code of IPv4/IPv6 address. Address lookup is done offline. (python)
+https://tools.ietf.org/html/rfc1918,Everyones Favorite RFC / 1918 (Defines private IP ranges)
+https://www.computerhope.com/unix/rsync.htm,rSync Examples
+https://moz.com/learn/seo/robotstxt,How to properly craft your robots.txt from moz.com
+https://docs.securitytrails.com/docs,Securitytrails API Documentation
+https://www.telnetbbsguide.com/bbs/remote-cpu-bbs/,Telnet BBS's List (working)
+https://www.netlookup.se/,OUI Mac Lookup Online
+https://bit.ly/beatcapcha,PDF - A research study on beating captcha (well written)
+https://jitsi.org/,Jitsi - A opensource chat/communication service
+https://www.keyworddiscovery.com/,KWD Collects keyword data from many different search engines world wide and compiles a range of search nfo
+https://www.amateurradiosupplies.com/,Amateur Radio Supplies has some great RF gear!
+https://www.keycdn.com/blog/resource-hints,HTML5 Code [Resource Hints] What is Preload
+https://oss.oetiker.ch/mrtg/,The Infamous Original Network Graphing Tool - MRTG
+https://irc.opentrackers.org/,Info on the IRC Network for opentrackers.org - finding new torrent sites
+https://wiki.termux.com/wiki/Termux-setup-storage,Help setting up Droid Terminal Emulator: Termux (the best)
+https://downforeveryoneorjustme.com/,Check site status UP/DOWN - downforeveryoneorjustme?
+https://www.vulnhub.com/entry/damn-vulnerable-linux-dvl-15-infectious-disease,1/
+https://phppot.com/php/php-curl/,Tutorial: Using curl with PHP
+http://test.com,desc
+https://htaccessbook.com/htaccess-redirect-https-www/,How to properly manage .htaccess to redirect http -> https
+https://www.xara.com/tools/color-palette-generator/,Create a beautiful color scheme! You only need a beautiful picture
+https://owasp.org/www-pdf-archive/OWASP_Code_Review_Guide_v2.pdf,[PDF] OWASP Code Review Guide v2
+https://github.com/irssi,The Official Github page for the irc client: IRSSI
+https://github.com/googleprojectzero/domato,DOMato - Learn how to FUZZ your DOM today
+https://wiki.backbox.org/backbox-linux-irc-channel,BackBox - Wiki - irc channel info
+http://httpd.apache.org/docs/2.0/howto/htaccess.html,dot htaccess - howto from Apache
+https://github.com/rverton/xssmap,(DOM-)XSS fuzzer based on phantomjs and go.
+https://github.com/dancipher/awsnap,Exfiltrating and Fuzzing hidden DOMs in Chrome's Closed Source PPAPI Plugins
+https://parrotsec.org/download/,Parrot OS - Comparable to Kali if not better. Live ISO or Full Install
+https://github.com/kennell/ftpknocker,ftpknocker is a multi-threaded scanner for finding anonymous FTP servers
+https://gbhackers.com/latest-google-dorks-list/,2019 Complete Google Dork List
+https://www.regextester.com/93652,Online tool to check / build / verify complex regex
+https://owasp.org/www-project-web-security-testing-guide/,OWASP Web Security Testing Guide
+http://net-snmp.sourceforge.net/wiki/index.php/,The SNMP Master Tutorial from Source Forge
+https://www.drupal.org/docs/user_guide/en/,Drupal CMS - Full Documentation Guide
+https://bit.ly/rpi4Deal,Excellent Deal on a Rasp Pi 4 (4g ram) for ~50$ USD
+https://www.farnell.com/datasheets/2819352.pdf,PDF - Spec Sheet for the RPI4
+https://maltego.com,Maltego offers solutions for open source intelligence and visual link analysis​
+https://github.com/nabla-c0d3,Git repo of some awesome SSL hacking / verifying scripts
+https://nabla-c0d3.github.io/blog/2013/08/20/intercepting-the-app-stores-traffic-on-ios/,Intercepting the App Store's Traffic on iOS
+https://testssl.sh/,testssl.sh - an EXTENSIVE tool to check a targets SSL Cert strength
+https://sites.cns.utexas.edu/oit-blog/blog/port-111-rpcbind-vulnerability,Decent article on RPC (tcp/111) and its vulnerabilities
+https://github.com/mschwager/fierce,fierce - cli dns recon tool
+https://github.com/mschwager/gitem,Very useful github command line tool to query different projects and drill down
+https://github.com/marcolivierbouch/dirbpy,The new version of dirb - called dirby . much faser dns enumeration
+https://blog.media.io/image-converter/jpg-vs-jpeg.html,Differences you should know between a .jpg and .jpeg (jpg vs jpg2000)
+https://github.com/freshshell/fresh,fresh.sh - [OSX} Keep your dot files F R E S H (git)
+https://github.com/sivel/speedtest-cli,[Git] Command Line Speedtest.net check (works in linux and osx)
+https://github.com/jasoncodes/dotfiles/blob/master/bin/adduser,Finally - adduser for OSX cli
+https://jasoncodes.com/posts/exim-smarthost-mac,Installing Exim on Mac OS X
+https://solstice.sh/workshops-advanced-wireless-attacks/,Advanced Wireless Attacks Against Enterprise Networks (AWAE) (v3)
+https://exploit.io,A Playground & Labs For Hackers
+https://www.digi77.com/linux-kodachi/,Kodachi Linux a secure
+http://www.wisdomsoftware.gr/download/uvncrep017-ws.tar.gz,VNC Repeater for Linux
+https://www.tecmint.com/hide-apache-web-server-version-information/,Hiding version number and details about your apache2 server
+https://www.cyberciti.biz/faq/unix-howto-read-line-by-line-from-file/,Bash Script tutorial - read in file line by line
+https://github.com/v0re/dirb/tree/master/wordlists,DNS Wordlist files (from dirb util) (multiple wordlists / dirlists)
+https://bit.ly/uTorCVE,*attn uTorrent Users* Exploit announcement for uTorrent users (pdf)
+https://ezgif.com/,ezgif.com - great online image / document conversion
+https://github.com/v0re/magspoof,MagSpoof is a device that can spoof/emulate any magnetic stripe or credit card. It can work wirelessly
+https://portswigger.net/web-security/xxe,XML external entity (XXE) injection information
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Security-Policy,The HTTP Content-Security-Policy response header allows web site administrators to control resources the user agent is allowed to load for a given page.
+https://www.adafruit.com/product/3653,24$ Adafruit WINC1500 WiFi Shield with PCB Antenna
+https://www.semiconductorstore.com/blog/2018/Bluetooth-1-0-vs-2-0-vs-3-0-vs-4-0-vs-5-0-How-They-Differ-Symmetry-Blog/3147/,Whats the difference between the different Bluetooth versions?
+https://rufus.ie/,RUFUS.io - Create bootable USB drives the easy way
+https://www.dxengineering.com/parts/ico-ah-8000?seid=dxese1,iCOM AH-8000 Discone Antennas AH-8000 - Too expensive but looks like a good project to DIY
+https://raspex.exton.se/wp-content/uploads/2019/08/rpi4.jpg,A nice image of the new RPI 4
+https://bit.ly/CORShttpNfo,Good info on HTTP CORS (Cross Origin Req) and how to properly secure your pages
+https://www.balena.io/etcher/,Another Great util to write images (dd) to flash and SD cards
+https://phantomjs.org/examples,PhantomJS Great Example Code
+https://www.comparitech.com/net-admin/snmpwalk-examples-windows-linux/,Some great examples of how to use snmpwalk - in linux / win / osx
+https://chrome.google.com/webstore/detail/live-http-headers/eaiimeeggnhceafhencnejheejddlcpa/related?hl=en,Excellent Chrome/Brave extension - HTTP live headers (works without setting proxy!)
+https://pdf2docx.com/,Quality - online PDF -> .docx online
+https://www.geeksforgeeks.org/what-is-the-difference-between-css-and-scss/,Explanation of the difference of .scss and .css style sheets
+https://bit.ly/KaliAutopsy,Digital Forensics Using Kali - Autopsy (Creating Cases in Autopsy & Sleuth Kit)
+https://bit.ly/KaliDDImage,Digital Forensics Using Kali
+https://www.broadcastify.com/,Broadcastify is the radio communications industry's largest platform for streaming live audio for public safety
+https://radio-locator.com/,Radio-Locator
+https://icecast.org/download/,Icecast - for Windows and Linux - Stream audio from your soundcard/device worldwide
+https://www.tightvnc.com/,TightVNC Server/Viewer (for linux/osx/win)
+http://www.fern-pro.com/,Official Fern WIFI cracker webpage
+https://www.xda-developers.com/,xda-developers - the hands down best Android  modifying / rooting info site
+https://www.sailoog.com/,OpenPlotter 2 - Full
+https://moz.com/products/pro/seo-toolbar,Chrome/Brave Extension - MOZbar - SEO stats for each page visited
+https://gqrx.dk/download/gqrx-sdr-for-the-raspberry-pi,gqrx - SDR Software for the RPI
+https://bit.ly/HackRFnfo,PDF - Decent writeup on the HackRF One and its features and capabilities
+https://bit.ly/LoRA_BT_WiFi_sniff,LoRA - Electronic RF module to sniff Cell/BT around you . Google it
+https://www.techrepublic.com/article/how-to-host-multiple-websites-on-apache2/,HOWTO- configure apache2 to host more then one site (vhosts) on one instance
+https://docs.tenable.com/nessus/Content/InstallNessusOffline.htm,Nessus - Docs on offline installation
+https://urlhaus.abuse.ch/browse/,URLHaus.abuse.ch - Check out Malware Known IPs/Hosts
+https://github.com/kennell/curldrop,curldrop - a linux script that allows you to share files locally or across the net (almost like pastebin for cli)
+,https://temp-mail.org/en/
+https://receive-smss.com/sms,Need to get a SMS/Text and dont want to give out your real #? Use this. its free
+https://freetools.seobility.net/en/seocheck,Seobility offers a free SEO website checker (very accurate)
+https://mirrors.edge.kernel.org/pub/linux/kernel/projects/backports/stable/3.10.17/,Linux Drivers for Wireless / Ethernet / BT support (if your distribution doesn't support your card)
+https://bit.ly/MSCreateCHM,Convert many .html files into a .chm (Compiled HTML) (win)
+https://www.tenable.com/downloads/nessus?,Download Tenable Nessus (All Platforms) Excellent Vulnerability Scanner
+http://circl.lu/projects/#ail-framework-framework-for-analysis-of-information-leaks,CIRCL explores new engineering solutions to improve CSIRT operations and to predict and better react on current and future threats.
+https://www.puritan.com/,Puritans Pride - One of the best online shops to buy Vitamins and Supplements
+https://www.rtl-sdr.com/big-list-rtl-sdr-supported-software/,rtl-sdr.com - Official - Big List of SDR related software (Linux Windows osX)
+https://va.tech.purdue.edu/webHistory/demo_DayPage.php?datetest=2016-09-13,Amazing WebApp @ purdue.edu - Keyword Cloud of Your Visited Web History
+https://www.rarst.net/code/php-date-range/,Generate Dates and Ranges in PHP (HOWTO)
+https://www.rtl-sdr.com/new-rtl-sdr-panoramic-spectrum-analyzer/,RF - NEW RTL-SDR PANORAMIC SPECTRUM ANALYZER (Windows)
+https://www.attracta.com/,Attracta - Powerful SEO Tools (some free some cost)
+https://jpg2png.com/,Convert jpg -> png online - fast
+https://tinypng.com/,Convert / Compress your .png files to a more optimized size for www
+https://lists.osmocom.org/mailman/listinfo,Osmocom - HackRF - Mailing List
+https://www.w3schools.com/jsref/default.asp,JavaScript and HTML DOM Reference / w3schools
+https://stackoverflow.com/questions/40574159/refused-to-execute-script-strict-mime-type-checking-is-enabled,Refused to execute script
+https://bit.ly/CORShttpNfo,About the Same Origin Policy - Stackoverflow help
+https://bit.ly/PurdueD0pe,purdue.edu - amazing keyword checking tool
+https://github.com/netsniff-ng,netsniff-ng is a free Linux networking toolkit
+https://bl.ocks.org/d3noob,Excellent Example of Javascript d3.js examples.
+https://www.zaproxy.org/,OWASP-ZAP The Ultimate Vulnerability Scanner - free - lots of addons (HUD)
+https://web.dev/learn/,web.dev - Explore our structured learning paths to discover everything you need to know about building for modern web pages/apps
+https://webpack.js.org/,webpack is a static module bundler for modern JavaScript applications. When webpack processes your application
+https://web.dev/mainthread-work-breakdown/?utm_source=lighthouse&utm_medium=devtools,Minimizing main thread work on your Modern WebApps
+https://www.y2mate.com/,y2mate - So far the best Youtube Video (high qual) downloader to avi/mp4
+https://leanpub.com/D3-Tips-and-Tricks,Great book on d3.js to buy/acquire for learning this great JS technology
+https://substance.email/files/SQLrand.pdf,SQLrand - Preventing SQL Injection Attacks
+http://caca.zoy.org/wiki/zzuf`,zzuf - multi-purpose fuzzer (low level / linux / osx)
+https://github.com/samhocevar/zzuf,zzuf is a transparent application input fuzzer. It works by intercepting file operations and changing random bits in the program's input
+https://www.bincodes.com/creditcard-checker/,Validate
+https://d3-wiki.readthedocs.io/zh_CN/master/,D3.JS - wiki docs
+https://github.com/ElevenPaths/EvilFOCA,EvilFOCA - Analyze and Poison your local LAN (windows)
+http://index-of.es/Miscellanous/,index-of.es - A GOLDMINE of PDF books
+https://www.vulnhub.com/entry/damn-vulnerable-linux-dvl-15-infectious-disease,1/
+https://owasp.org/2020/03/17/juice-shop-v10.html,Juice Shop - Practice Pentesting on this broken webapp
+https://www.cse.msu.edu/~cse231/PracticeOfComputingUsingPython/,msu.edu - Provides a step by step learning Python 3 guide from beginner to advanced
+https://ooni.org/about/, Open Observatory of Network Interference (OONI) is a free software project that aims to empower decentralized efforts in increasing transparency of Internet censorship around the world.
+https://www.valuetronics.com/catalogsearch/result/index/?p=2&q=antenna,Valuetronics? SUPER overpriced
+https://www.rtl-sdr.com/big-list-rtl-sdr-supported-software/,The *BIG* list of all supported software for your SDR device
+https://www.unrealircd.org/,UnrealircD - Unreal IRC Server supports SSL .  My Favorite
+https://bit.ly/rpi4-4cores-4g,Excellent deal from amazon on the latest RPI4 (4gig ram 4 cores)
+https://www.ionos.com/marketing/rankingcoach-result,IONOS - SEO Ranking Coach Result
+https://www.amazon.com/AmazonBasics-High-Speed-Micro-Cable-RedMere/dp/B01JH71EYC,3 Meter MICRO-HDMI -> HDMI (For Raspberry Pi 4) (Get 2 of them)
+https://bit.ly/rpi4power3A,RPI4 Power Supply (3AMP) USB-C type
+https://bit.ly/WifiCameraTiny14bux,Cheap Wifi Camera Tiny Project Board 14$ (Awesome project gadget)
+https://sourceforge.net/projects/guiforrtlpower/,GUI for Linux util - rtl_power
+https://www.iana.org/assignments/icmp-parameters/icmp-parameters.xhtml,ICMP Type Code List from IANA
+https://dcs1.noaa.gov/documents/CS1%20Channel%20Frequencies.pdf,300 / 1200 BPS GOES Data Collection Platform Radio Set (DCPRS)
+https://ohmyz.sh/,Oh My Zsh is a delightful
+https://github.com/ohmyzsh/ohmyzsh/wiki/Themes,Themes for oh my zsh
+https://usa.banggood.com/,Online retail shop Bandgood - Has some EXCELLENT deals on WIFI/RF/Arduino/SDR etc type goods
+https://github.com/samhocevar/rinetd,TCP/UDP port redirector on Github
+http://caca.zoy.org/wiki/zzuf,zzuf - Multipurpose Fuzzer
+https://www.gearbest.com/,Gearbest.com - Excellent deals on wifi / rf and misc cables accessories
+http://www.user-agents.org/index.shtml?,The Ultimate website for listings of all the User Agents (UA) and spiders/bots in use as of 2020
+http://caca.zoy.org/wiki/zzuf,zzuf is a transparent application input fuzzer.
+https://lna4all.blogspot.com/2017/02/diy-137-mhz-wx-sat-v-dipole-antenna.html,DIY 137 MHz WX SAT V-dipole antenna (For Satellite Image Capturing)
+https://nootropicdesign.com/projectlab/2019/11/08/weather-satellite-ground-station/,Automated Weather Satellite Ground Station
+https://www.rtl-sdr.com/creating-an-automated-raspberry-pi-and-rtl-sdr-based-noaa-weather-satellite-station/,Create a Weather Station Radar receiving unit with RTL-SDR v3 and a PI
+https://www.seobility.net/en/blog/rich-snippets/,How to qualify and code for rich snippets in Google listings
+https://rootnroll.com/d/pipenv/,Pipenv is a tool that aims to bring the best of all packaging worlds (bundler
+https://www.peeringdb.com/net/1418,ASN Peering Database
+https://github.com/NationalSecurityAgency/ghidra,Ghidra is a software reverse engineering (SRE) framework https://www.nsa.gov/ghidra
+https://www.sitepoint.com/a-beginners-guide-to-pug/,A Beginners Guide to PUG / HTML code
+http://www.pentest-standard.org/index.php/Main_Page,Pentest Standards - pentest-standard.org
+https://www.microfocus.com/en-us/products/siem-security-information-event-management/overview,ArcSight Event Manager - Experience powerful
+https://rapidapi.com/blog/how-to-use-the-twitter-api/,How to use the Twitter API
+https://rapidapi.com/,RapidAPI - The ultimate in API distribution for multiple services (in one spot)
+https://github.com/El3ct71k/SubDomain-Analyzer,Subdomain Analyzer - git
+https://wyze.com/wyze-cam.html,Wyze Wifi Security Cams 1080p
+https://ip-ranges.amazonaws.com/ip-ranges.json,JSON flat file of all of the EC2 Amazon ranges (all avail. zones
+https://www.hopperapp.com/,Hopper - Multi OS (Linux/OSX/Win) disassembler
+https://www.reddit.com/r/ReverseEngineering/comments/12ajwc/how_to_start_out_in_reverse_engineering/,How to get started reverse engineering
+https://phantomjs.org/inter-process-communication.html,PhantomJS - interprocess communications HOWTO
+https://bit.ly/dxGPSusbrX,GPS receiver unit (USB) 5$ from DX.com
+https://github.com/notpike/SDR-Notes,Excellent Resource on getting started with Software Defined Radio
+https://he.net/3d-map/,Hurricane Electric - 3d BGP map
+https://aprs.fi/#!lat=42.6701&lng=-73.7754,Extremely detailed info on weather
+https://github.com/projecthorus/chasemapper
+https://tracker.sondehub.org/,Radiosondes - Want to learn about Weather Balloons and how to setup a RPI weather station?
+https://www.rtl-sdr.com/receiving-weather-balloon-data-with-rtl-sdr/,RTL-SDR Tutorial: Receiving Weather Balloon Data (RADIOSONDE) with rtl-sdr
+http://happysat.nl/Raspberry/index.html,Integrating your RPI and your RTL-SDR or HackRF (Huge Document)
+http://doc.chipfind.ru/nte/,Electronics Site and Search: Great for finding specifics chips and integrated circuits
+https://www.microsoft.com/en-us/download/details.aspx?id=45520,Remote Server Administration Tools for Windows 10 (For Powershell hacking/admin)
+https://kushagra.dev/lab/hint/,HiNT.js - great JS library to display and use advanced (and big) tooltips on your page
+http://hping.org/wbox/,wbox - Pentesting all purpose tool for command line exploration of a website (header info
